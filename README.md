@@ -1,4 +1,5 @@
 # Roblox Hitbox Module
-A hitbox module for combat games that is easily customizeable.
+A simple Hitbox Module mainly for combat games.
 
 Documentation: https://github.com/SlowGhost208/Hitbox/wiki
+How to visual the hitbox: https://github.com/SlowGhost208/Hitbox/wiki/Visualise-the-Hitbox
