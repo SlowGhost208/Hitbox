@@ -1,0 +1,2 @@
+# Hitbox
+A hitbox module.
